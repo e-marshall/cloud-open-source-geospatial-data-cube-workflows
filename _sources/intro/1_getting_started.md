@@ -61,3 +61,22 @@ A summary of the lessons learned throughout the tutorials and synthesis of these
 ## *About this book*
 
 These tutorials were initially developed while Emma Marshall interned with the Summer Internships in Parallel Computational Sciences ([SIParCS](https://www.cisl.ucar.edu/outreach/internships)) program at the National Center for Atmospheric Research ([NCAR](https://ncar.ucar.edu/)). Jessica Scheick, Scott Henderson, and Deepak Cherian were internship supervisors for this project. The internship was also supported by a NASA Open Source Tools, Frameworks, and Libraries program (Award  80NSSC22K0345), with a specific focus on developing educational resources for working with cloud-hosted data using Xarray. Tutorial development continued after the conclusion of the SIParCS internship when Emma Marshall returned to the University of Utah as a Ph.D. student, where she was supported by a FINESST Fellowship Grant (80NSSC22K1536).
+
+---
+If you use this material, please consider including the following citation: 
+
+***Plain text***  
+Marshall et al., (2025). Cloud-native geospatial data cube workflows with open-source tools. *Journal of Open Source Education*, 8(89), 267, https://doi.org/10.21105/jose.00267
+
+***Bibtex***
+```bibtex
+@article{Marshall2025, 
+        doi = {10.21105/jose.00267}, 
+        url = {https://doi.org/10.21105/jose.00267}, 
+        year = {2025}, 
+        publisher = {The Open Journal}, 
+        volume = {8}, number = {89}, pages = {267}, 
+        author = {Emma Marshall and Deepak Cherian and Scott Henderson and Jessica Scheick and Richard Forster}, 
+        title = {Cloud-native geospatial data cube workflows with open-source tools}, 
+        journal = {Journal of Open Source Education} } 
+```
