@@ -1,0 +1,65 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Cloud-native geospatial data cube workflows with    
+  open-source tools
+message: >-
+  If you use this material, please consider citing it as
+  below.
+authors:
+  - given-names: Emma
+    family-names: Marshall
+    orcid: 'https://orcid.org/0000-0001-6348-977X'
+  - given-names: Deepak
+    family-names: Cherian
+    orcid: 'https://orcid.org/0000-0002-6861-8734'
+  - given-names: Scott
+    family-names: Henderson
+    orcid: 'https://orcid.org/0000-0003-0624-4965'
+  - given-names: Jessica
+    family-names: Scheick
+    orcid: 'https://orcid.org/0000-0002-3421-4459'
+  - given-names: Richard
+    family-names: Forster
+    orcid: 'https://orcid.org/0000-0003-3945-5072'
+identifiers:
+  - type: doi
+    value: 10.21105/jose.00267
+    description: The DOI of the publication
+  - type: doi
+    value: 10.5281/zenodo.15788188
+    description: The DOI of the Zenodo Archive for version 1.0.0
+repository-code: >-
+  https://github.com/e-marshall/cloud-open-source-geospatial-data-cube-workflows
+url: >-
+  https://e-marshall.github.io/cloud-open-source-geospatial-data-cube-workflows/introduction.html
+license: 
+  - MIT
+  - CC-BY-4.0
+commit: dba214bf8ae94c20ba9ea6b0a741f7adbe2bebe3
+version: 1.0.0
+date-released: '2025-07-01'
+preferred-citation:
+  type: article
+  title: Cloud-native geospatial data cube workflows with open-source tools
+  authors:
+    - given-names: Emma
+      family-names: Marshall
+      orcid: 'https://orcid.org/0000-0001-6348-977X'
+    - given-names: Deepak
+      family-names: Cherian
+      orcid: 'https://orcid.org/0000-0002-6861-8734'
+    - given-names: Scott
+      family-names: Henderson
+      orcid: 'https://orcid.org/0000-0003-0624-4965'
+    - given-names: Jessica
+      family-names: Scheick
+      orcid: 'https://orcid.org/0000-0002-3421-4459'
+    - given-names: Richard
+      family-names: Forster
+      orcid: 'https://orcid.org/0000-0003-3945-5072'
+  journal: Journal of Open Source Education
+  doi: 10.21105/jose.00267
+  year: 2025

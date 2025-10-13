@@ -1,13 +1,29 @@
 # About this book
-----
+
 ## Contributing
 
 If you'd like to contribute to this book, please start a discussion or raise an issue in the GitHub [repository](https://github.com/e-marshall/cloud-open-source-geospatial-data-cube-workflows).
 
 ## Citation
 
-If you use this material, please include the following citation: 
-This book is currently under review in the [Journal of Open Source Education](https://jose.theoj.org/), please check back later for a citation. 
+If you use this material, please consider including the following citation: 
+
+**Plain text**  
+Marshall et al., (2025). Cloud-native geospatial data cube workflows with open-source tools. *Journal of Open Source Education*, 8(89), 267, https://doi.org/10.21105/jose.00267
+
+**Bibtex**
+```bibtex
+@article{Marshall2025, 
+        doi = {10.21105/jose.00267}, 
+        url = {https://doi.org/10.21105/jose.00267}, 
+        year = {2025}, 
+        publisher = {The Open Journal}, 
+        volume = {8}, number = {89}, pages = {267}, 
+        author = {Emma Marshall and Deepak Cherian and Scott Henderson and Jessica Scheick and Richard Forster}, 
+        title = {Cloud-native geospatial data cube workflows with open-source tools}, 
+        journal = {Journal of Open Source Education} } 
+```
+
 
 ## Acknowledgements
 
